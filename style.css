@@ -22,14 +22,13 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 45px;
 }
 
 .foto{
     width: 100px;
     height: 100px;
     margin-top: 30px;
-    background-image: url("avatar-jessica.jpeg");
+    background-image: url("./images/avatar-jessica.jpeg");
     background-size: cover;
     background-position: center;
     border-radius: 100%;
