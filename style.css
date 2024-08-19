@@ -28,7 +28,7 @@ body{
     width: 100px;
     height: 100px;
     margin-top: 30px;
-    background-image: url("./images/avatar-jessica.jpeg");
+    background-image: url("avatar-jessica.jpeg");
     background-size: cover;
     background-position: center;
     border-radius: 100%;
